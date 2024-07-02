@@ -85,11 +85,11 @@ nvidia-smi
 nvcc -V
 ```
 
-What may happen is
+What may happen is that
 
-The NVIDIA Driver runs normally but the CUDA Toolkit version cannot be found
+The NVIDIA Driver runs normally but the CUDA Toolkit version cannot be found.
 
-The system recommends installing CUDA Toolkit. 
+The system will recommend installing CUDA Toolkit. 
 
 ![image](img/Install%20Ubuntu%2020.04%20in%20a%20CUDA%20compatible%20way/Screenshot%20from%202024-02-08%2004-16-31.png)
 
